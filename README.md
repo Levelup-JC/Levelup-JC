@@ -27,7 +27,7 @@
 
 <br/>
 
-## ✨ Featured
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%235B8CFF" width="22" height="22" alt="" /> Featured
 
 <table>
   <tr>
@@ -73,13 +73,13 @@
 
 <br/>
 
-## 🛠 Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%235B8CFF" width="22" height="22" alt="" /> Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=apple,electron,ts,js,python,nodejs,swift,notion,github,vscode&theme=dark" alt="tech stack" />
 </p>
 
-## 📊 Activity
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%235B8CFF" width="22" height="22" alt="" /> Activity
 
 <div align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=Levelup-JC&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=5b8cff&icon_color=5b8cff&text_color=c9d1d9&cache_seconds=86400" alt="GitHub stats" />
